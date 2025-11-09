@@ -45,6 +45,7 @@ To analyze Superstore sales data from 2015 to 2018 in order to identify trends, 
 
 
  ### 📊📉 Dashboard 
+![Dashboard](dashboard.png)
  
 
 ### 📈 Key Insights
@@ -63,4 +64,4 @@ To analyze Superstore sales data from 2015 to 2018 in order to identify trends, 
 ---
 
 ## 📞 Contact
-For questions or collaboration opportunities, feel free to connect with me on [LinkedIn]([your-linkedin-profile-url](https://www.linkedin.com/in/youssef-gebreal-297a43338/))
+For questions or collaboration opportunities, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/youssef-gebreal-297a43338/)
