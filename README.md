@@ -45,7 +45,7 @@ To analyze Superstore sales data from 2015 to 2018 in order to identify trends, 
 
 
  ### 📊📉 Dashboard 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.PNG)
  
 
 ### 📈 Key Insights
